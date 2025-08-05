@@ -5,7 +5,7 @@ An overview of my profile.
 
 > 📍 Dhaka, Bangladesh &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 🎓 BSc in Industrial and Production Engineering (MIST)  
 > 🧑‍🔬 Research Assistant @ EcoTech Research Lab  
-> 📊 Junior Data Analyst @ Apploye Inc.  
+> 📊 Junior Engineer @ Apploye Inc.  
 > 📫 ashfakkausik65@gmail.com | [LinkedIn](https://www.linkedin.com/in/ashfak-kausik) | [GitHub](https://github.com/Ashfak-Kausik)
 
 ---
