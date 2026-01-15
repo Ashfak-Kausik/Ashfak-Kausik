@@ -62,13 +62,9 @@ AI/ML for Industrial Applications • Computer Vision & Object Detection • Rob
 ---
 
 ### 📊 GitHub Analytics
-
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashfak-Kausik&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashfak-Kausik&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
+<img src="https://github-readme-stats.vercel.app/api?username=Ashfak-Kausik&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashfak-Kausik&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </div>
 
 ---
