@@ -1,94 +1,97 @@
-# My-Profile
-An overview of my profile.
+# Hi 👋, I'm Ashfakul Karim Kausik
 
-# 👋 Hi, I’m Ashfakul Karim Kausik
+<div align="center">
+  
+### Industrial Engineer | AI & ML Researcher | Robotics & Computer Vision Enthusiast
 
-> 📍 Dhaka, Bangladesh &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 🎓 BSc in Industrial and Production Engineering (MIST)  
-> 🧑‍🔬 Research Assistant @ EcoTech Research Lab  
-> 📊 Junior Engineer @ Apploye Inc.  
-> 📫 ashfakkausik65@gmail.com | [LinkedIn](https://www.linkedin.com/in/ashfak-kausik) | [GitHub](https://github.com/Ashfak-Kausik)
+**Research Assistant** @ EcoTech Research Lab | **Product Manager** @ Spacesoft Ltd.
 
----
+📍 Dhaka, Bangladesh
 
-### 💬 About Me
-
-I'm a research-focused engineering graduate exploring the intersection of **AI**, **Machine Learning**, **Computer Vision**, **Smart Manufacturing**, **Data Analytics**, **Robotics**, **Autonomous Systems**, and **Predictive Analytics** in industrial and real-world applications.  
-I love to learn and I know how to build things that work, analyze data that matters, and ask the right research questions.  
-I love working on rsearch projects that solve real problems, and I'm always learning.
+</div>
 
 ---
 
-### 🚀 Research Areas & Interests
-
-- 🔎 AI & Machine Learning for real-world problem solving  
-- 🤖 Computer Vision & Object Detection  
-- 🏭 Smart Manufacturing & Industrial Automation  
-- 📈 Predictive & Descriptive Data Analytics  
-- 🛰️ IoT-integrated Systems & UAV Applications  
-- 🧪 Model Performance & Evaluation
+### 🔬 Research Focus
+AI/ML for Industrial Applications • Computer Vision & Object Detection • Robotics & Intelligent Systems • Smart Manufacturing • Predictive Maintenance • IoT-Integrated Systems
 
 ---
 
-### 🧰 Toolbox
+### 🛠️ Tech Stack
 
-#### Languages & Libraries
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+**Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 
-#### Tools & Platforms
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
-![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?style=flat&logo=overleaf)
-![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda)
+**ML/AI & Data Science**  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat&logo=yolo&logoColor=black)
 
----
+**Tools & Platforms**  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ROS](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white)
 
-### 📚 Latest Publications
+**Engineering & Design**  
+![SOLIDWORKS](https://img.shields.io/badge/-SOLIDWORKS-FF0000?style=flat)
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-E51937?style=flat)
+![ARENA](https://img.shields.io/badge/-ARENA_Simulation-4B0082?style=flat)
 
-- 🧠 *AI in the Military* — Wiley  
-- 🏭 *AI Revolutionizing Industries* — Elsevier  
-- 🔍 *ML in Manufacturing QA* — Elsevier  
-- 🌾 *Integration of AI + IoT + UAVs in Precision Agriculture* — Elsevier  
-- 🥦 *Cauliflower Disease Classification via Deep Learning* — Elsevier  
-- 🔧 *Real-Time Defect Detection for Tortilla Machine* — IEEE
-
-📑 [See full publication list on GoogleScholar]([https://www.researchgate.net/profile/Ashfakul-Karim-Kausik](https://scholar.google.com.au/citations?view_op=list_works&hl=en&user=JlAgpPsAAAAJ))
-
----
-
-### 🛠️ Projects
-
-- **🧠 ML for Manufacturing QA** — Systematic review, performance metric analysis  
-- **🔍 Real-Time Object Detection** — Defect detection intelligent system using TensorFlow & OpenCV  
-- **🌿 Eco-friendly Gutter Cleaner** — Solar-powered, magnetic waste segregation  
-- **🦾 Industrial Autonomous Robot** — Product segregation robot (In progress)
+**Research & Documentation**  
+![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?style=flat&logo=overleaf&logoColor=white)
+![Zotero](https://img.shields.io/badge/-Zotero-CC2936?style=flat&logo=zotero&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 📚 Currently Learning
 
-![Ashfak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashfak-Kausik&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashfak-Kausik&layout=compact&theme=gruvbox)
-
----
-
-### 🌱 Currently Learning
-
-- ML model performance evaluation  
-- Deployment of AI pipelines  
-- Improving hands-on coding fluency  
+![Deep Learning](https://img.shields.io/badge/-Deep_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white)
+![Robotics](https://img.shields.io/badge/-Robotics-00979D?style=flat&logo=arduino&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/-Computer_Vision-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![MLOps](https://img.shields.io/badge/-MLOps-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 ---
 
-### ☕ Let's Connect
+### 📊 GitHub Analytics
 
-I'm open to **research collaborations**, **internships**, or **data-centric project work**.  
-Feel free to connect via [LinkedIn](https://www.linkedin.com/in/ashfak-kausik) or drop me an email at **ashfakkausik65@gmail.com**.
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashfak-Kausik&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashfak-Kausik&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+</div>
 
 ---
 
+### 🌐 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashfak-kausik/)
+[![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com.au/citations?view_op=list_works&hl=en&user=JlAgpPsAAAAJ)
+[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0899-7872)
+[![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)](https://www.overleaf.com/project)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashfak-Kausik)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ashfak_1801/)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ashfak01)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashfakkausik65@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Ashfak-Kausik&color=58A6FF&style=flat-square&label=Profile+Views)
+
+</div>
