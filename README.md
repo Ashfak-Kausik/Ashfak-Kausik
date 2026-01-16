@@ -1,6 +1,6 @@
 <div align="center"> 
-# Hi 👋, I'm Ashfakul Karim Kausik
-</div>  
+<b>Hi 👋, I'm Ashfakul Karim Kausik</b>
+</div>
 
 <div align="center">
   
