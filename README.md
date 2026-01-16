@@ -1,4 +1,6 @@
+<div align="center"> 
 # Hi 👋, I'm Ashfakul Karim Kausik
+</div>  
 
 <div align="center">
   
