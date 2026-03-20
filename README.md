@@ -19,47 +19,59 @@ AI/ML for Industrial Applications • Computer Vision & Object Detection • Rob
 
 ---
 
-### 🛠️ Tech Stack
+### 🧠 Tech Stack
 
-**Languages**  
+#### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
-**ML/AI & Data Science**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat&logo=yolo&logoColor=black)
-
-**Tools & Platforms**  
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+#### 🤖 Robotics & ROS Ecosystem and Embedded Systems & Hardware
+![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/-Gazebo-F58113?style=flat&logoColor=white)
+![MoveIt2](https://img.shields.io/badge/-MoveIt2-F77F00?style=flat&logoColor=white)
+![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![ROS](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-**Engineering & Design**  
+#### 🏗️ Engineering & Design
 ![SOLIDWORKS](https://img.shields.io/badge/-SOLIDWORKS-FF0000?style=flat)
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-E51937?style=flat)
-![ARENA](https://img.shields.io/badge/-ARENA_Simulation-4B0082?style=flat)
+![CATIA](https://img.shields.io/badge/-CATIA-005386?style=flat)
 
-**Research & Documentation**  
+#### 📷 Computer Vision & Perception
+![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+#### 📊 Machine Learning & Data Science
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+
+#### 🛠️ Dev Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS_Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+
+#### 📄 Research & Documentation
 ![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?style=flat&logo=overleaf&logoColor=white)
 ![Zotero](https://img.shields.io/badge/-Zotero-CC2936?style=flat&logo=zotero&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![draw.io](https://img.shields.io/badge/-draw.io-F08705?style=flat&logo=diagrams.net&logoColor=white)
 
----
-
-### 📚 Currently Learning
-
-![Deep Learning](https://img.shields.io/badge/-Deep_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white)
-![Robotics](https://img.shields.io/badge/-Robotics-00979D?style=flat&logo=arduino&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/-Computer_Vision-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![MLOps](https://img.shields.io/badge/-MLOps-326CE5?style=flat&logo=kubernetes&logoColor=white)
+#### 🌱 Currently Learning
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![ROS2_Nav2](https://img.shields.io/badge/-ROS2_Nav2-22314E?style=flat&logo=ros&logoColor=white)
+![ROS2_Control](https://img.shields.io/badge/-ROS2_Control-22314E?style=flat&logo=ros&logoColor=white)
+![Bayesian_Methods](https://img.shields.io/badge/-Bayesian_Methods-7B2D8B?style=flat&logoColor=white)
+![RT--DETR](https://img.shields.io/badge/-RT--DETR-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 ---
 
