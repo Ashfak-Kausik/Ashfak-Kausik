@@ -4,7 +4,7 @@
 
 <div align="center">
   
-### Industrial Engineer | AI & ML Researcher | Robotics & Computer Vision Enthusiast
+### Industrial Engineer | Doing Research in Computer Vision, AI, ML, Robotics, HRI, and Smart Sensing
 
 **Research Assistant** @ EcoTech Research Lab | **Product Manager** @ Spacesoft Ltd.
 
@@ -15,7 +15,7 @@
 ---
 
 ### 🔬 Research Focus
-AI/ML for Industrial Applications • Computer Vision & Object Detection • Robotics & Intelligent Systems • Smart Manufacturing • Predictive Maintenance • IoT-Integrated Systems
+AI/ML for Industrial Applications • Computer Vision & Object Detection • Robotics (HRI and robotic perception) • Smart Sensing • Predictive Maintenance
 
 ---
 
