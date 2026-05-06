@@ -4,9 +4,7 @@
 
 <div align="center">
   
-### Industrial Engineer | Doing Research in Computer Vision, AI, ML, Robotics, HRI, and Smart Sensing
-
-**Research Assistant** @ EcoTech Research Lab | **Product Manager** @ Spacesoft Ltd.
+### Industrial Engineer | Employee @ SpaceSoft Ltd. and Research Assistant @ EcoTech Research Lab
 
 📍 Dhaka, Bangladesh
 
@@ -15,7 +13,7 @@
 ---
 
 ### 🔬 Research Focus
-AI/ML for Industrial Applications • Computer Vision & Object Detection • Robotics (HRI and robotic perception) • Smart Sensing • Predictive Maintenance
+AI & ML • Computer Vision & Object Detection • Robotics • Reinforcement Learning • Smart Sensing
 
 ---
 
@@ -23,10 +21,10 @@ AI/ML for Industrial Applications • Computer Vision & Object Detection • Rob
 
 #### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 
 #### 🤖 Robotics & ROS Ecosystem and Embedded Systems & Hardware
 ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white)
@@ -42,10 +40,10 @@ AI/ML for Industrial Applications • Computer Vision & Object Detection • Rob
 ![CATIA](https://img.shields.io/badge/-CATIA-005386?style=flat)
 
 #### 📷 Computer Vision & Perception
-![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat&logo=yolo&logoColor=black)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 #### 📊 Machine Learning & Data Science
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
