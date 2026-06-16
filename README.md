@@ -13,7 +13,7 @@
 ---
 
 ### 🔬 Research Focus
-AI & ML • Computer Vision & Object Detection • Robotics • Reinforcement Learning • Smart Sensing
+Robotics • AI & ML • Reinforcement Learning • Computer Vision • Control • Autonomous Systems
 
 ---
 
